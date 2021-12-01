@@ -22,3 +22,11 @@
 
 * primarily focused on making the html code and semantic
 
+
+# further changes made in index.html
+
+* <nav> tag added replacing <div>
+
+* <main>, <section>, and <footer> tag added replacing <div>
+
+* changes made to "style.css" accordingly

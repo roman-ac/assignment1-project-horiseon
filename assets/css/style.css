@@ -27,16 +27,16 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 /* gave a header margin of 18px to align the content with h1 */
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 20px;
     margin-top: 18px;
@@ -63,7 +63,7 @@ p {
     background-position: center;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -80,11 +80,11 @@ p {
 }
 
 /* new class "sos" repalcing individual block classes */
-/* changed height to 315px*/
+/* changed height to 355px*/
 .sos {
     margin-bottom: 20px;
     padding: 50px;
-    height: 330px;
+    height: 355px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -96,11 +96,11 @@ p {
 
 .sos h2 {
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 
-.benefits {
+section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -120,7 +120,7 @@ p {
 .segments h3 {
     margin-bottom: 10px;
     text-align: center;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .segments img {
@@ -129,13 +129,13 @@ p {
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
